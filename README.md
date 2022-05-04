@@ -116,6 +116,6 @@ Depois de executar a aplicação, leia o QRCode pelo aplicativo. -->
 
 ## Licença e Autora
 
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/lorenatoscano/feedget/main/LICENSE) para mais detalhes.
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](https://github.com/KesleyMuniz/FeedGet/blob/main/LICENSE) para mais detalhes.
 
 README inspirado em [Lorena Toscano](https://github.com/lorenatoscano/feedget).

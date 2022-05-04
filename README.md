@@ -6,18 +6,6 @@
 <h1 align="center">FeedGet - Feedback Widget</h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/lorenatoscano/feedget.svg?color=835AFD">
-
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/lorenatoscano/feedget.svg?color=835AFD">
-  
-  <a href="https://github.com/lorenatoscano/feedget/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/lorenatoscano/feedget.svg?color=835AFD">
-  </a>
-
-  <img alt="GitHub" src="https://img.shields.io/github/license/lorenatoscano/feedget?color=835AFD">
-</p>
-
-<p align="center">
   <a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#tecnologias-utilizadas">Tecnologias utilizadas</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#como-rodar">Como rodar?</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;

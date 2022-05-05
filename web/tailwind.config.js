@@ -7,6 +7,9 @@ module.exports = {
           500: '#e25656',
           300: '#ff6d6d',
         }
+      },
+      borderRadius: {
+          md:'4px'
       }
     },
   },

@@ -7,7 +7,7 @@ interface FeedbackTypeStepProps {
 
 export function FeedbackTypeStep({ onFeedbackTypeChanged }: FeedbackTypeStepProps) {
   return (
-    <div>
+    <>
     <header>
     <span className="text-xl leading-6">Deixe seu feedback</span>
 
@@ -29,6 +29,6 @@ export function FeedbackTypeStep({ onFeedbackTypeChanged }: FeedbackTypeStepProp
       );
     }) }
   </div>
-    </div>
+    </>
   )
 }
